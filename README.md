@@ -41,4 +41,4 @@ Para saber cómo iniciar la captura con `tcpdump`, realizar las consultas de pru
   
 ## Video explicativo del levantamiento del servicio, comandos utilizados para el cliente y servidor
 - https://drive.google.com/drive/folders/1ApnwHEtBamS0S7ECKC0IPEA4_AUajwqi
-Nota: El video requiere iniciar sesión con el correo institucional para poder acceder.
+> Nota: El video requiere iniciar sesión con el correo institucional para poder acceder.
