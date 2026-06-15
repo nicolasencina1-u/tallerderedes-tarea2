@@ -38,3 +38,5 @@ Para saber cómo iniciar la captura con `tcpdump`, realizar las consultas de pru
 ## Referencias utilizadas
 - Repositorio oficial de [apache/httpd](https://github.com/apache/httpd) para el código del servidor.
 - Documentación oficial de [urllib3](https://urllib3.readthedocs.io/en/stable/user-guide.html) para el desarrollo de los scripts cliente.
+## Video explicativo del levantamiento del servicio, comandos utilizados para el cliente y servidor
+- https://drive.google.com/drive/folders/1ApnwHEtBamS0S7ECKC0IPEA4_AUajwqi
